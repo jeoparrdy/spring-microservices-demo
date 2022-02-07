@@ -1,5 +1,8 @@
-package com.bobocode.customer;
+package com.bobocode.customer.service;
 
+import com.bobocode.customer.entity.Customer;
+import com.bobocode.customer.repository.CustomerRepository;
+import com.bobocode.customer.service.CustomerRegistrationRequest;
 import org.springframework.stereotype.Service;
 
 @Service

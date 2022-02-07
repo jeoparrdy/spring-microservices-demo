@@ -1,4 +1,4 @@
-package com.bobocode.customer;
+package com.bobocode.customer.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

@@ -1,5 +1,7 @@
-package com.bobocode.customer;
+package com.bobocode.customer.controller;
 
+import com.bobocode.customer.service.CustomerRegistrationRequest;
+import com.bobocode.customer.service.CustomerService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
